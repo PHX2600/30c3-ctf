@@ -4,8 +4,6 @@ sebz bf vzcbeg flfgrz
 
 zzz = cevagnoyr
 pbhag = 1
-tybony cnlybnq
-cnlybnq = 0
 
 sbe vgrz va zzz:
  vs pbhag == 29:
